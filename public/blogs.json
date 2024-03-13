@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      
+        "cover_image": "https://i.ibb.co/wSgYGYt/pexels-erik-mclean-4193742.jpg",
+        "author": {
+          "name": "Alice Smith",
+          "image": "https://i.ibb.co/g3HrRzn/pexels-vlada-karpovich-4668509.jpg"
+        },
+        "posted_date": "2024-03-10",
+        "title": "The Art of Mindful Living",
+        "hashtags": ["mindfulness", "selfcare", "wellness"],
+        "reading_time": 8
+      
+    },
+    {
+      "id": 2,
+    
+        "cover_image": "https://i.ibb.co/RTgsNfS/toy-bricks-table-with-word-my-blog.jpg",
+        "author": {
+          "name": "Bob Johnson",
+          "image": "https://i.ibb.co/HYGvy9n/istockphoto-1416048929-1024x1024.jpg"
+        },
+        "posted_date": "2024-03-11",
+        "title": "Exploring the World of Astrophysics",
+        "hashtags": ["astrophysics", "space", "science"],
+        "reading_time": 15
+      
+    },
+    {
+      "id": 3,
+      
+        "cover_image": "https://i.ibb.co/VpDGvSL/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+        "author": {
+          "name": "Emily Brown",
+          "image": "https://i.ibb.co/LnvBSqX/pexels-dziana-hasanbekava-7063764.jpg"
+        },
+        "posted_date": "2024-03-09",
+        "title": "Healthy Eating: A Beginner's Guide",
+        "hashtags": ["nutrition", "healthyliving", "diet"],
+        "reading_time": 12
+      
+    },
+    {
+      "id": 4,
+      
+        "cover_image": "https://i.ibb.co/52ZFVkB/luca-bravo-9l-326-FISzk-unsplash.jpg",
+        "author": {
+          "name": "David Lee",
+          "image": "https://i.ibb.co/bzZ9c83/woman-model-MZBENBHUAC.jpg"
+        },
+        "posted_date": "2024-03-08",
+        "title": "10 Must-Read Books for Entrepreneurs",
+        "hashtags": ["entrepreneurship", "books", "personaldevelopment"],
+        "reading_time": 7
+      
+    },
+    {
+      "id": 5,
+      
+        "cover_image": "https://i.ibb.co/pr0KfQZ/camera-lens-B8-DBISSZFX.jpg",
+        "author": {
+          "name": "Sophia Adams",
+          "image": "https://i.ibb.co/VWKsm1b/pexels-ivan-samkov-4240505.jpg"
+        },
+        "posted_date": "2024-03-07",
+        "title": "The Benefits of Yoga for Mental Health",
+        "hashtags": ["yoga", "mentalhealth", "wellness"],
+        "reading_time": 10
+      
+    }
+  ]
+  
